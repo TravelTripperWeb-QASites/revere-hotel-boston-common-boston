@@ -1,4 +1,5 @@
 {
-  "name": "Rooftop bar with stunning city views",
-  "order": 3
+  "name": "ATM/banking",
+  "order": 3,
+  "hidden": false
 }

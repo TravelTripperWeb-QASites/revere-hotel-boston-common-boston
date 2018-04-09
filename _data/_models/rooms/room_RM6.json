@@ -1,0 +1,181 @@
+{
+  "name_localized": {
+    "en": "Superior Room, 1 King Bed, Accessible",
+    "es": "Superior Room, 1 King Bed, Accessible"
+  },
+  "short_description_localized": {
+    "en": "Superior Room, 1 King Bed, Accessible",
+    "es": "Superior Room, 1 King Bed, Accessible"
+  },
+  "description_localized": {
+    "en": "<strong>1 King Bed</strong><br />355-sq-foot (33-sq-meter) room with a balcony<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Coffee/tea maker, room service, and refrigerator (on request)<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, bathtub or shower, bathrobes, and free toiletries<br /><b>Practical</b> - Laptop-compatible safe, free weekday newspaper, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br /><b>Accessibility</b> - Wheelchair accessible<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;",
+    "es": "<strong>1 King Bed</strong><br />355-sq-foot (33-sq-meter) room with a balcony<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Entertainment</b> - 37-inch flat-screen TV with premium channels and pay movies<br /><b>Food & Drink</b> - Coffee/tea maker, room service, and refrigerator (on request)<br /><b>Sleep</b> - Hypo-allergenic bedding and blackout drapes/curtains <br /><b>Bathroom</b> - Private bathroom, bathtub or shower, bathrobes, and free toiletries<br /><b>Practical</b> - Laptop-compatible safe, free weekday newspaper, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request<br /><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning<br /><b>Accessibility</b> - Wheelchair accessible<br />Non-Smoking<br />Connecting/adjoining rooms can be requested, subject to availability <br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ],
+    "es": [
+      {
+        "name": "Air conditioning"
+      },
+      {
+        "name": "Balcony"
+      },
+      {
+        "name": "Bathrobes"
+      },
+      {
+        "name": "Blackout drapes/curtains"
+      },
+      {
+        "name": "Cable TV service"
+      },
+      {
+        "name": "Coffee/tea maker"
+      },
+      {
+        "name": "Connecting/adjoining rooms available"
+      },
+      {
+        "name": "Daily housekeeping"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Flat-panel TV"
+      },
+      {
+        "name": "Free cribs/infant beds"
+      },
+      {
+        "name": "Free toiletries"
+      },
+      {
+        "name": "Free weekday newspaper"
+      },
+      {
+        "name": "Hair dryer"
+      },
+      {
+        "name": "Hypo-allergenic bedding available"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "In-room climate control (air conditioning)"
+      },
+      {
+        "name": "In-room climate control (heating)"
+      },
+      {
+        "name": "In-room safe (laptop compatible)"
+      },
+      {
+        "name": "Iron/ironing board"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Pay movies"
+      },
+      {
+        "name": "Phone"
+      },
+      {
+        "name": "Premium TV channels"
+      },
+      {
+        "name": "Refrigerator (on request)"
+      },
+      {
+        "name": "Room service (limited hours)"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "RM6",
+  "order": 6
+}
