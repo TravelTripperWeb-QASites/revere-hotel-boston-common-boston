@@ -271,5 +271,26 @@
     }
   ],
   "reztrip_room_id": "RM13",
-  "order": 13
+  "order": 13,
+  "featured_image": {
+    "name": "Deluxe Room, 2 Queen Beds, Accessible Image 4",
+    "file_name": "Deluxe Room, 2 Queen Beds, Accessible Image 4",
+    "url": "//cdn.qa-traveltripper.info/site-assets/1_23_109/media/2018-04-12-091245/68757_1_yankee_large.jpg",
+    "tags": "",
+    "description": "",
+    "date_added": "2018-04-12-091245",
+    "file_type": "image/jpeg",
+    "width": 800,
+    "height": 600,
+    "file_size": 66815,
+    "url_large": "//cdn.qa-traveltripper.info/site-assets/1_23_109/media/2018-04-12-091245/large_68757_1_yankee_large.jpg",
+    "url_medium": "//cdn.qa-traveltripper.info/site-assets/1_23_109/media/2018-04-12-091245/medium_68757_1_yankee_large.jpg",
+    "url_small": "//cdn.qa-traveltripper.info/site-assets/1_23_109/media/2018-04-12-091245/small_68757_1_yankee_large.jpg",
+    "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/1_23_109/media/2018-04-12-091245/xsmall_68757_1_yankee_large.jpg",
+    "url_thumb": "//cdn.qa-traveltripper.info/site-assets/1_23_109/media/2018-04-12-091245/thumb_68757_1_yankee_large.jpg",
+    "caption": "",
+    "alt": "horse",
+    "git_file_name": "_assets/image_data/Deluxe-Room--2-Queen-Beds--Accessible-Image-4.json",
+    "path": "//cdn.qa-traveltripper.info/site-assets/1_23_109/media/2018-04-12-091245/68757_1_yankee_large.jpg"
+  }
 }
